@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @Ganesh-Bollapalli
-- 👀 I’m currently working as a Senior Data Engineer with 4.6 years of experience on Hadoop Tools.
-- 🌱 I have Greate working knowledge in Spark, Scala, python, Hive, Sqoop, Kafka, SparkStreaming, Airflow, Java, Unix shell scripting, Teradata and Informatica.
-- 💞️ I’m looking to collaborate on Hadoop Tools and Technologies
+- 👀 I’m currently working as a Senior Data Engineer with 4.7 years of experience on BigData Hadoop Tools.
+- 🌱 I have Greate working knowledge in AWS, Spark, Scala, python, SQL, Hive, Sqoop, Kafka, SparkStreaming, Airflow, Jenkins, Unix shell scripting, .
+- 💞️ I’m looking to collaborate on Cloud, BigData Hadoop Tools and Technologies
 - 📫 Reach out to me on bollapalliganesh@gmail.com
 
 <!---
